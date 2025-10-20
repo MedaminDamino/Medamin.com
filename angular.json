@@ -53,7 +53,9 @@
                   "maximumError": "40kb"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+                "baseHref": "/Medamin.com/",
+                "prerender": false
             },
             "development": {
               "optimization": false,
